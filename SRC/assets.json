@@ -1,0 +1,40 @@
+{
+    "music": {
+        "background_music" : "SRC\\sprites\\sounds\\music_background.mp3"
+    },
+
+    "sounds":{
+        "water_ball" : "SRC\\sprites\\sounds\\water_ball.mp3",
+        "cat_lose" : "SRC\\sprites\\sounds\\meow_collision.mp3",
+        "cat_final" : "SRC\\sprites\\sounds\\meow_final.mp3",
+        "cat_shaking" : "SRC\\sprites\\sounds\\cat_shaking.mp3",
+        "cat_happy" : "SRC\\sprites\\sounds\\meow_happy.mp3"
+    },
+
+    "font" : {
+        "space_font" : "SRC\\sprites\\other\\SPACE.ttf"
+    },
+
+    "images" : {
+        "background_menu" : "SRC\\sprites\\background\\Background_menu.png",
+        "shield" : "SRC\\sprites\\shield\\shield0.png",
+        "floor" : "SRC\\sprites\\plataforms\\floor\\Floor.png",
+        "food_power" : "SRC\\sprites\\other\\Food.png",
+        "bombucha0" : "SRC\\sprites\\bombshells\\Bombucha0.png",
+        "bombucha1" : "SRC\\sprites\\bombshells\\Bombucha1.png",
+        "bombucha2" : "SRC\\sprites\\bombshells\\Bombucha2.png",
+        "bombucha3" : "SRC\\sprites\\bombshells\\Bombucha3.png",
+        "cat_lose" : "SRC\\sprites\\character\\cat\\lose\\GatoLose0.png",
+        "cat_jumping" : "SRC\\sprites\\character\\cat\\jumping\\GatoSaltando3.png",
+        "cat0" : "SRC\\sprites\\character\\cat\\walking\\GatoCaminando0.png",
+        "cat1" : "SRC\\sprites\\character\\cat\\walking\\GatoCaminando1.png",
+        "cat2" : "SRC\\sprites\\character\\cat\\walking\\GatoCaminando2.png",
+        "mute_off" : "SRC\\sprites\\sounds\\MuteOff.png",
+        "mute_on" : "SRC\\sprites\\sounds\\MuteOn.png",
+        "exit" : "SRC\\sprites\\other\\Exit.png",
+        "pause" : "SRC\\sprites\\other\\pause.png",
+        "title" : "SRC\\sprites\\titles\\titulo.png",
+        "background" : "SRC\\sprites\\background\\Background.png"
+    }
+}
+
